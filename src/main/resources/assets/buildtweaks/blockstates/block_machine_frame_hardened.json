@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "buildtweaks:block_machine_frame_hardened" }
+    }
+}

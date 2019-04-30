@@ -1,0 +1,12 @@
+// Items
+item.item_pressed_blutonium.name=Pressed Blutonium Ingot
+
+// Blocks
+tile.block_machine_frame_basic.name=Basic Machine Frame
+tile.block_machine_frame_hardened.name=Hardened Machine Frame
+tile.block_machine_frame_reinforced.name=Reinforced Machine Frame
+tile.block_machine_frame_resonant.name=Resonant Machine Frame
+tile.block_factory_machine.name=Factory Machine Block
+
+// Other
+itemGroup.buildtweaks=BuildTweaks

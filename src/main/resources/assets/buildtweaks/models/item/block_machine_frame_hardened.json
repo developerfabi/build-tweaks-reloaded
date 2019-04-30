@@ -1,0 +1,6 @@
+{
+    "parent": "buildtweaks:block/block_machine_frame_hardened",
+    "textures": {
+        "layer0": "buildtweaks:blocks/block_machine_frame_hardened"
+    }
+}

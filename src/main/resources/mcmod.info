@@ -1,0 +1,16 @@
+[
+{
+  "modid": "buildtweaks",
+  "name": "BuildTweaks",
+  "description": "This is the official tweaking mod for the modpack 'Modern Infinity', by developerfabi",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "developerfabi.com",
+  "updateUrl": "",
+  "authorList": ["developerfabi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

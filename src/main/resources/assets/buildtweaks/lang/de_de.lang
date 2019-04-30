@@ -1,0 +1,13 @@
+// Items
+item.item_pressed_blutonium.name=Gepresster Blutonium Barren
+
+// Blocks
+tile.block_machine_frame_basic.name=Grundmaschinenrahmen
+tile.block_machine_frame_hardened.name=Gehärteter Maschinenrahmen
+tile.block_machine_frame_reinforced.name=Verstärkter Maschinenrahmen
+tile.block_machine_frame_resonant.name=Resonanter Maschinenrahmen
+tile.block_factory_machine.name=Fabrikmaschinenblock
+
+// Other
+itemGroup.buildtweaks=BuildTweaks
+

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+      "south": "buildtweaks:blocks/block_factory_machine_side",
+      "north": "buildtweaks:blocks/block_factory_machine_side",
+      "west": "buildtweaks:blocks/block_factory_machine_side",
+      "east": "buildtweaks:blocks/block_factory_machine_side",
+      "up": "buildtweaks:blocks/block_factory_machine_top",
+      "down": "buildtweaks:blocks/block_factory_machine_bottom",
+      "particle": "buildtweaks:blocks/block_factory_machine_side"
+    }
+}
